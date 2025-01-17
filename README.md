@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+The project entails calling an on Patient Data API from a Hospital database and dispaying it on UI with charts, grraphs and text.
 
 First, run the development server:
 
